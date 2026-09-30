@@ -1,6 +1,6 @@
 # My Mini Portfolio
 
-A modern, responsive personal portfolio website for Teamr Yheys. It presents a background in full-stack web and mobile development, cybersecurity interests, selected projects, certifications, and social links.
+A modern, responsive personal mini portfolio website . It presents my background in full-stack web and mobile development, cybersecurity interests, selected projects, certifications, and social links.
 
 ## Features
 
